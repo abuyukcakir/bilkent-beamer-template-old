@@ -7,4 +7,4 @@ I modified the beamer template for Radboud University Nijmegen (see http://www.c
 
 Here is a sample title page for your presentation:
 
-![Sample Title Page for Bilkent Beamer Template](./bilkent-beamer-titlepage.png "Logo Title Text 1")
+![Sample Title Page for Bilkent Beamer Template](./beamer-template-sample.png "Bilkent Beamer Template Sample")
